@@ -1,0 +1,280 @@
+/*
+ Localizable.strings
+ User
+ 
+ Created by veena on 1/30/17.
+ Copyright © 2017 iCOMPUTERS. All rights reserved.
+ */
+
+
+"APP_NAME"="تاكسي الآن";
+
+"CHKNET" ="الرجاء التأكد من الإتصال بالإنترنت";
+"ALERT" = "انذار";
+"VALIDATE"="الرجاء مليء جميع الحقول";
+"ERRORMSG"="الرجاء المحاولة ثانية";
+"LOGIN_ERROR"="خطأ في الدخول";
+"AMOUNT_SYMBOL"="نموذج الكمية ";
+"WAIT_PAY_MENT"="انتظار الدفع";
+
+//ViewController
+"TITLE_LBL"="ابدأ رحلتك مع تاكسي الآن";
+"MAIL_BUTTON"="ادخل بريدك الإلكتروني";
+"SOCIAL_BUTTON"="أو التسجيل من خلال التواصل الاجتماعي";
+
+//Register Page
+"TITLE_REG"="ادخل التفاصيل للتسجيل";
+"EMAIL"="البريد الإلكتروني";
+"EMAIL_EG"="على سبيل المثال name@example.com";
+"FIRST_NAME"="الاسم الاول";
+"LAST_NAME"="الاسم الاخير";
+"PHN_NO"="رقم الهاتف";
+"PWD"="كلمة المرور";
+
+//Password Page
+"TITLE_PWD"="مرحبا ، سجّل الدخول واستمر";
+"PWD_PLACEHOLDER"="ادخل كلمة المرور";
+"FORGOT_BTN"="هل نسيت كلمة المرور؟";
+"REGISTER_BTN"="احتاج لإنشاء حساب";
+
+//Change Password screen
+
+"OLD_PWD"="كلمة المرور القديمة مطلوبة";
+"NEW_PWD"="كلمة المرور الجديدة";
+"CON_PWD"="تأكيد كلمة المرور";
+"MATCH_PWD"="كلمة المرور الجديدة و تأكيدها يجب أن تكون متشابهة";
+"PWD_CHD"="تم تغيير كلمة المرور بنجاح";
+
+//RATING_VIEW
+"RATING_VIEW"="تقييم رحلتك مع";
+
+//AddCard
+"CARD"="غير صالحة";
+
+"CARD_DETAILS"="الرجاء ادخل معلومات البطاقة";
+
+"AMOUNT_WALLET"="ادخل المبلغ ليضاف في محفظتك";
+
+"PWD_REQ"="كلمة المرور مطلوبة";
+
+"PROMO_CODE"="ادخل الرمز الترويجي";
+
+"EMAIL_REQ"="البريد الإلكتروني مطلوب";
+
+"EMAIL_INVALID"="البريد الإلكتروني غير صالح";
+
+"ADD_CARD"="الرجاء ادخال البطاقة";
+
+//Logout
+"LOG_OUT"="هل تريد فعلا الخروج ؟";
+
+"Logout" = "الخروج";
+
+//initial Page
+"Enter your mail ID" = "ادخل بريدك الإلكتروني";
+"or connect with social"="أو سجل من خلال وسائل التواصل";
+"Get moving with TaxiAlaan"="ابدأ رحلتك مع تاكسي الآن";
+
+
+//Email Controller
+"What's your email address?"="ما هو بريدك الإلكتروني؟";
+"I need to create an account"="احتاج إنشاء حساب";
+
+
+//Password Controller
+"I forgot my password" = "هل نسيت كلمة المرور؟";
+"Welcome back, sign in to continue" = "مرحبا ، سجّل الدخول واستمر";
+
+//social media controller
+"Choose an account"="اختيار الحساب";
+"Google"="جوجل";
+"Facebook"="فيس بوك";
+
+//Validate Controller
+"Enter your mobile number"="ادخل رقم الهاتف";
+"Enter Pin"="ادخل الدبوس";
+"Validate"="التحقق من الصحة";
+"Reset"="اعادة تعيين";
+"Enter phone Number"="ادخل رقم الهاتف";
+
+//HELP
+"Help"="المساعدة";
+"HELP"="المساعدة";
+
+"TaxiAlaan Help"="مساعدة تاكسي الآن";
+"Our team person will contact you soon!"="سنتصل بك فورا";
+"Share" = "شارك";
+
+//RegisterController
+"Enter the details to register"="ادخل المعلومات للتسجيل";
+"E-mail"="البريد الإلكتروني";
+"Name"="الاسم";
+"First name"="الاسم الاول";
+"Phone Number"="رقم الهاتف";
+"Password"="كلمة المرور";
+"Confirm password"="تأكيد كلمة المرور";
+"Last name"="الاسم الاخير";
+"IntroducerCode" = "كود التعريف";
+//forget password
+"Enter the Details"="ادخل المعلومات";
+"Enter new password."="ادخل كلمة المرور الجديدة";
+"Please confirm password."="اعد كتابة كلمة المرور";
+
+
+//TripsController
+"Your Trips"="رحلاتك";
+"Past"="السابقة";
+"Upcoming"="القادمة";
+"Date"="التاريخ";
+"Time"="الوقت";
+
+//History controller
+"Comments"="التعليقات";
+"Payment method"="طرق الدفع";
+"History"="التاريخ";
+
+
+//Edit profile
+
+"Edit profile"="تعديل الملف";
+"First"="الاول";
+"Last"="الاخير";
+
+"Service"="خدمات";
+"SAVE"="حفظ";
+"Change Password"="تغيير كلمة المرور";
+
+"Navigation"="التنقل";
+
+"EARNINGS"="الواردات";
+"Total Earnings"="مجموع الواردات";
+"Today Completed Target"="تحقق الهدف اليومي";
+"Amount"="الكمية";
+"Distance"="المسافة";
+"Time"="الوقت";
+
+
+
+//locationController
+"From where?"="من أين تنطلق؟";
+"Where to go?"="أين تذهب؟";
+
+//Wallet
+
+"WALLET"="محفظة نقود";
+"Your wallet amount is"="رصيدك في المحفظة";
+"ADD AMOUNT"="اضافة مبلغ";
+
+"Payments"="المدفوعات";
+"Add credit or debit card"="اضافة بطاقة للدفع";
+"Card number"="رقم البطاقة";
+"ADD"="اضف";
+"WalletId" = "معرف المحفظة";
+"Balance" = "رصيد";
+
+"Travel costs" ="تكلفة الرحلات";
+
+//Home
+
+"Where to?(Optional)"="أين تذهب ( اختياري)";
+"Source"="المصدر";
+"Destination"="وجهتك";
+"Looking for Provider"="نبحث لك عن كابتن";
+"CANCEL REQUEST"="الغاء الرحلة";
+"CALL"="إتصال";
+"Cancel"="الغاء";
+"RING"="يرن";
+"INVOICE"="القائمة";
+"Base Fare"="الاجرة الأساسية";
+"Tax"="الضريبة";
+"Total"="المجموع";
+"CONTINUE TO PAY"="استمرار للدفع";
+"Waiting for payment"="انتظار الدفع";
+"Distance Fare"="المسافة";
+"Service Charge"="اجرة الخدمة";
+
+"Rate your trip"="تقييم الرحلة";
+
+"Change"="تغيير";
+"SUBMIT"="ارسال";
+"Capacity"="السعة";
+"CHANGE"="تغيير";
+"REQUEST NOW"="اطلب الآن";
+"Due to high demand price may vary"="نظرا للازدحام قد ترتفع الاجرة";
+"ETA"="ايتا";
+"RIDE NOW"="اصعد الآن";
+"Model"="الموديل";
+
+"Pickup & drop"="الصعود والنزول";
+"CHANGE"="تغيير";
+"Driver was not provided the number to call."="الكابتن لا يستطيع الإتصال";
+
+"Including all other charges"="تتضمن جميع المبلغ";
+"Pickup & Drop"="صعود ونزول";
+"How many hours do you need"="كم ساعة تحتاج؟";
+"Fixed hours"="عدد الساعات بالضبط";
+"CASH"="نقدا";
+"Schedule a ride"="جدول الرحلة";
+"SCHEDULE REQUEST"="جدول الطلب";
+"INVOICE ID"="رقم القائمة";
+"WAIT_PAY_MENT"="انتظار الدفع";
+"Driver Accepted"="الكابتن قبل الطلب";
+"Arriving at your location"="وصل الكابتن";
+"Arrived"="وصل الكابتن";
+"On Ride"="بدء الرحلة";
+"Your location"="موقعك";
+"No Cards Added!!"="لم تتم اضافة بطاقة";
+"Please add you card details."="الرجاء اضف معلومات بطاقتك";
+"Payments"="المدفوعات";
+"Promotions"="الترويج";
+"Your Trips"="رحلاتك";
+"Wallet"="محفظتك";
+"Please add a card to proceed"="اضف البطاقة";
+
+
+
+"Are you sure want to logout?"="هل ترغب فعلا بالخروج؟";
+"Alert!"="تنبيه";
+"NO"="كلا";
+"YES"="نعم";
+
+"Alert"="تنبيه";
+"User was not gave the mobile number"="المستخدم لم يضع رقم هاتفه";
+
+"Are you sure want to Call Emergency?"="هل تريد فعلا الإتصال بالطواريء؟";
+"Your device does not support calling"="جهازك لا يدعم الإتصال";
+"Discount" = "خصم";
+"Wallet deduction" = "خصم المحفظة";
+
+"Add Coupon" = "إضافة كوبون";
+"Coupon" = "كوبون";
+"Contact Us" = "اتصل بنا";
+"Privacy Policy" = "سياسة الخصوصية";
+
+"Settings"="الإعدادات";
+"SUBMIT"="ارسل";
+"Change Language"="غير اللغة";
+"Select your language"="اختر لغتك";
+
+"Estimated Fare" = "الأجرة المقدرة";
+"Estimated Time" = "التكسي سيصل خلال";
+
+
+"Commission"="الرصيد المتبقي";
+"RemainBalance"="الرصيد المتبقي";
+"Send Money"= "إرسال نقود";
+"Accounts Charge"="شحن الحساب";
+"Balance Is Low!"="الرصيد منخفض!";
+"Transactions List"="قائمة المعاملات";
+"Withdraw Amount"="سحب المبلغ";
+"Successful Operation" = "عملية ناجحة";
+"Request Has Been Sent Successfully"="تم تطبيق رمز الشحن بنجاح";
+"Wallet Not Found!"="محفظة غير موجود";
+"Balance Is Not Enough."="الرصيد ليس كافيًا";
+"Charge Code Applied Successfully"="تم تطبيق رمز الشحن بنجاح";
+"Wallet"="محفظة";
+"Send"="إرسال";
+"Please enter your code"="من فضلك ادخل الكود";
+"Please enter  wallet id"="الرجاء إدخال معرف المحفظة";
+"Please enter amount"="الرجاء إدخال المبلغ";
+"close" = "اغلاق";

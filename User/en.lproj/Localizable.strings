@@ -1,0 +1,291 @@
+/* 
+  Localizable.strings
+  User
+
+  Created by veena on 1/30/17.
+  Copyright © 2017 iCOMPUTERS. All rights reserved.
+*/
+
+
+"APP_NAME"="TaxiAlaan";
+
+"CHKNET" ="Please check internet connection";
+"ALERT" = "Alert!";
+"VALIDATE"="Please fill all the fields";
+"ERRORMSG"="Please try again later";
+"LOGIN_ERROR"="Authentication failed";
+"AMOUNT_SYMBOL"="$";
+"WAIT_PAY_MENT"="Waiting for payment";
+
+//ViewController
+"TITLE_LBL"="Get Moving With TaxiAlaan";
+"MAIL_BUTTON"="Enter your mail ID";
+"SOCIAL_BUTTON"="or connect with social";
+
+//Register Page
+"TITLE_REG"="Enter the details to register";
+"EMAIL"="Email";
+"EMAIL_EG"="name@example.com";
+"FIRST_NAME"="First name";
+"LAST_NAME"="Last name";
+"PHN_NO"="Phone Number";
+"PWD"="Password";
+
+//Password Page
+"TITLE_PWD"="Welcome back, sign in to continue";
+"PWD_PLACEHOLDER"="Enter your password";
+"FORGOT_BTN"="I forgot my password";
+"REGISTER_BTN"="I need to create an account";
+
+/* Validation */
+"OTP_REQ"="Enter valid OTP";
+"ENTERMOBILE" = "Please enter your Mobile Number";
+"VALIDATEEMAIL" = "Please enter valid email address";
+"VALIDATEPASSWORD" = "Password should contain atleast 6 characters";
+"VALIDATEMOBILE" = "Please enter the valid Mobile number";
+"VALIDATEPASSWORDFIELDS" = "Password and confirm password is not same";
+
+//Change Password screen
+
+"OLD_PWD"="Old password is required";
+"NEW_PWD"="New password is required";
+"CON_PWD"="Confirm password is required";
+"MATCH_PWD"="New password and confirm password must be same";
+"PWD_CHD"="Password changed successfully";
+
+//RATING_VIEW
+"RATING_VIEW"="Rate your trip with";
+
+//AddCard
+"CARD"="unable to procced";
+
+"CARD_DETAILS"="Please enter the card details";
+
+"AMOUNT_WALLET"="Enter the amount to be added to your wallet";
+
+"PWD_REQ"="Password is required";
+
+"PROMO_CODE"="Enter the promotional code";
+
+"EMAIL_REQ"="Email address is required";
+
+"MOBILE_REQ"="Mobile number is required";
+
+"EMAIL_INVALID"="Email address is invalid";
+
+"MOBILE_INVALID"="Mobile number is invalid";
+
+"ADD_CARD"="Please add a card to proceed";
+
+//Logout
+"LOG_OUT"="Are you sure want to logout?";
+
+
+
+//initial Page
+"Enter your mail ID" = "Enter your mail ID";
+"or connect with social"="or connect with social";
+"Get moving with TaxiAlaan"="Get moving with TaxiAlaan";
+
+
+//Email Controller
+"What's your email address?"="What's your email address?";
+"I need to create an account"="I need to create an account";
+
+
+//Password Controller
+"I forgot my password"="I forgot my password";
+"Welcome back, sign in to continue"="Enter OTP sent to your mobile number";
+
+//social media controller
+"Choose an account"="Choose an account";
+"Google"="Google";
+"Facebook"="Facebook";
+
+//Validate Controller
+"Enter your mobile number"="Enter your mobile number";
+"Enter Pin"="Enter Pin";
+"Validate"="Validate";
+"Reset"="Reset";
+"Enter phone Number"="Enter phone Number";
+
+//HELP
+"HELP"="HELP";
+"TaxiAlaan Help"="TaxiAlaan Help";
+"Our team person will contact you soon!"="Our team person will contact you soon!";
+
+//RegisterController
+"Enter the details to register"="Enter the details to register";
+"E-mail"="E-mail";
+"Name"="Name";
+"First name"="First name";
+"Phone Number"="Phone Number";
+"Password"="Password";
+"Confirm password"="Confirm password";
+"Last name"="Last name";
+"IntroducerCode" = "Introducer Code";
+//forget password
+"Enter the Details"="Enter the Details";
+"Enter new password."="Enter new password.";
+"Please confirm password."="Please confirm password.";
+
+
+//TripsController
+"Your Trips"="Your Trips";
+"Past"="Past";
+"Upcoming"="Upcoming";
+"Date"="Date";
+"Time"="Time";
+
+//History controller
+"Comments"="Comments";
+"Payment method"="Payment method";
+"History"="History";
+
+
+//Edit profile
+
+"Edit profile"="Edit profile";
+"First"="First";
+"Last"="Last";
+
+"Service"="Service";
+"SAVE"="SAVE";
+"CHANGE PASSWORD"="CHANGE PASSWORD";
+
+"Navigation"="Navigation";
+
+"EARNINGS"="EARNINGS";
+"Total Earnings"="Total Earnings";
+"Today Completed Target"="Today Completed Target";
+"Amount"="Amount";
+"Distance"="Distance";
+"Time"="Time";
+
+
+
+//locationController
+"From where?"="From where?";
+"Where to go?"="Where to go?";
+
+//Wallet
+
+"WALLET"="WALLET";
+"Your wallet amount is"="Your wallet amount is";
+"ADD AMOUNT"="ADD AMOUNT";
+
+"Payments"="Payments";
+"Add credit or debit card"="Add credit or debit card";
+"Card number"="Card number";
+"ADD"="ADD";
+"WalletId" = "WalletId";
+"Balance" = "Balance";
+//Home
+
+"Where to?(Optional)"="Where to?(Optional)";
+"Source"="Source";
+"Destination"="Destination";
+"Looking for Provider"="Looking for Provider";
+"CANCEL REQUEST"="CANCEL REQUEST";
+"CALL"="CALL";
+"Cancel"="Cancel";
+"RING"="RING";
+"INVOICE"="INVOICE";
+"Base Fare"="Base Fare";
+"Tax"="Tax";
+"CONTINUE TO PAY"="CONTINUE TO PAY";
+"Waiting for payment"="Waiting for payment";
+"Distance Fare"="Distance Fare";
+"Service Charge"="Service Charge";
+
+"Rate your trip"="Rate your trip";
+
+"Change"="Change";
+"SUBMIT"="SUBMIT";
+"Capacity"="Capacity";
+"CHANGE"="CHANGE";
+"REQUEST NOW"="REQUEST NOW";
+"Due to high demand price may vary"="Due to high demand price may vary";
+"ETA"="ETA";
+"RIDE NOW"="RIDE NOW";
+"Model"="Model";
+
+"Pickup & drop"="Pickup & drop";
+"CHANGE"="CHANGE";
+"Driver was not provided the number to call."="Driver was not provided the number to call.";
+
+"Including all other charges"="Including all other charges";
+"Pickup & Drop"="Pickup & Drop";
+"How many hours do you need"="How many hours do you need";
+"Fixed hours"="Fixed hours";
+"CASH"="CASH";
+"Schedule a ride"="Schedule a ride";
+"SCHEDULE REQUEST"="SCHEDULE REQUEST";
+"INVOICE ID"="INVOICE ID";
+"WAIT_PAY_MENT"="WAIT_PAY_MENT";
+"Driver Accepted"="Driver Accepted";
+"Arriving at your location"="Arriving at your location";
+"Arrived"="Arrived";
+"On Ride"="On Ride";
+"Your location"="Your location";
+"No Cards Added!!"="No Cards Added!!";
+"Please add you card details."="Please add you card details.";
+"Payments"="Payments";
+"Promotions"="Promotions";
+"Your Trips"="Your Trips";
+"Wallet"="Wallet";
+"Please add a card to proceed"="Please add a card to proceed";
+
+
+"ALERT"="ALERT";
+"CONNECTION"="CONNECTION";
+"OK"="OK";
+"ERROR"="ERROR";
+
+"ERRORMSG"="ERRORMSG";
+"Are you sure want to logout?"="Are you sure want to logout?";
+"Alert!"="Alert!";
+"NO"="NO";
+"YES"="YES";
+"CHKNET"="CHKNET";
+"Alert"="Alert";
+"User was not gave the mobile number"="User was not gave the mobile number";
+"CALL"="CALL";
+"Are you sure want to Call Emergency?"="Are you sure want to Call Emergency?";
+"Your device does not support calling"="Your device does not support calling";
+
+"Coupon" = "Coupon";
+"Contact Us" = "Contact Us";
+"Privacy Policy" = "Privacy Policy";
+"Add Coupon" = "Add Coupon";
+"Change Language"="Change Language";
+"SUBMIT"="SUBMIT";
+"Select your language"="Select your language";
+
+
+"Estimated Fare" = "Estimated Fare";
+"Estimated Time" = "Taxi will arrive in";
+
+"Commission"="Commission";
+"RemainBalance"="RemainBalance";
+"Send Money"="Send Money";
+"Accounts Charge"="Accounts Charge";
+"Balance Is Low!"="Balance Is Low!";
+"Transactions List"= "Transactions List";
+"Withdraw Amount"="Withdraw Amount";
+"Successful Operation" = "Successful Operation";
+"Request Has Been Sent Successfully"= "Request Has Been Sent Successfully";
+"Wallet Not Found!"="Wallet Not Found!";
+"Balance Is Not Enough."="Balance Is Not Enough.";
+"Charge Code Applied Successfully"="Charge Code Applied Successfully";
+"Wallet"="Wallet";
+"Send"="Send";
+"Please enter your code"="Please enter your code";
+"Please enter  wallet id"="Please enter  wallet id";
+"Please enter amount"="Please enter amount";
+
+
+"Travel costs" ="Travel costs";
+"Discount" = "Discount";
+"Total"="Total";
+"close" = "Close";
